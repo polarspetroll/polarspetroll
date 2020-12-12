@@ -16,4 +16,4 @@
 - Mysql
 - ruby
 - bash
-- CEH Certified
+- CEH(Certified)
