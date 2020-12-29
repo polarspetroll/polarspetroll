@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on APIs and small bug bounties.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C & Js.
 - :heavy_check_mark:Active.
 ---
 ### contact
