@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on APIs and small bug bounties.
+- 🔭 I’m currently working on small bug bounties.
 - 🌱 I’m currently learning Golang.
 - :heavy_check_mark:Active.
 ---
