@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-
-- 🔭 I’m currently working on small bug bounties.
-- 🌱 I’m currently learning Golang.
-- :heavy_check_mark:Active.
+![](cat.png)
 ---
 ### contact
 - :email:[mail](mailto:polarspetroll@protonmail.com).
