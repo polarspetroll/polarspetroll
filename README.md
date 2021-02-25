@@ -9,8 +9,3 @@
 - :camera:[Instagram](https://instagram.com/polarspetroll).
 - :bird:[twitter](https://twitter.com/polarspetroll).
 ---
-#### skills(junior)
-- Mysql
-- ruby
-- bash
-- CEH(Certified:heavy_check_mark:)
