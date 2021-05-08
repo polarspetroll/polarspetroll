@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarspetroll&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![](cat.png)
----
-### contact
-- :email:[mail](mailto:polarspetroll@protonmail.com).
-- :octocat: [web](https://polarspetroll.github.io).
-- :bird:[twitter](https://twitter.com/polarspetroll).
----
+![stat](https://github-readme-stats.vercel.app/api?username=polarspetroll&hide=issues,prs&theme=dark)
+
+##### contact
+- :email:[mail](mailto:polarspetroll@protonmail.com)
