@@ -6,8 +6,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polarspetroll&layout=compact&theme=radical" width="300" height="300">
   <img src="https://github-readme-stats.vercel.app/api/?username=polarspetroll&hide=issues&theme=merko" width="470" height="300">
   </div>
-  
-  
+  <span align="left">
+  <p>
+  <img src="live.gif" width="30"/>
+  Currently learning :
+  <b>Microcontroller programming</b>
+    </p>
+  </span>
+  <br/>
   <span>
 <img src="go.png" width="45" title="Golang"/>
 <img src="ruby.png" width="28" title="Ruby"/>
