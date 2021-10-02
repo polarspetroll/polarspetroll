@@ -21,6 +21,7 @@
 <img src="dart.png" width="30" title="Dart"/>
 <img src="bash.png" width="60" title="Bash"/>
 <img src="js.png" width="50" title="Javascript"/>
+<img src="python.png" width="32" title="Python"/>
 <img src="html.png" width="30" title="HTML"/>
 <img src="mysql.png" width="60" title="Mysql"/>
 <img src="ceh.png" width="30" title="CEH"/>
