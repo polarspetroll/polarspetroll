@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image.gif" width="100" height="100">
+  <img src="planet.gif" width="100">
   </div>
   <hr/>
   <div align="center">
@@ -37,4 +37,3 @@
 
 <div align="center"><i>Contact</i></div>
 <div align="center"><a href="mailto:polarspetroll@protonmail.com">Email</a></div>
-
