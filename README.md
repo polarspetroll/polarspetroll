@@ -10,7 +10,7 @@
   <p>
   <img src="live.gif" width="30"/>
   Currently learning :
-  <b>Microcontroller programming</b>
+  <b>NULL</b>
     </p>
   </span>
   <br/>
