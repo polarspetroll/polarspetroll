@@ -4,8 +4,8 @@
   <hr/>
     <div align="center"><img src="https://media.tenor.com/FYR6iAkCCPQAAAAi/christmas-lights.gif"/></div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polarspetroll&layout=compact&theme=cobalt&langs_count=15" width="300" height="300">
-  <img src="https://github-readme-stats.vercel.app/api/?username=polarspetroll&hide=issues&theme=cobalt" width="470" height="300">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=polarspetroll&layout=compact&theme=cobalt&langs_count=15" width="300" height="300">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=polarspetroll&hide=issues&theme=cobalt" width="470" height="300">
   </div>
   <span align="left">
   </span>
